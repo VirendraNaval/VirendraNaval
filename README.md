@@ -88,20 +88,19 @@ const Virendra = {
 <div align="center">
 
 ### 📊 Comprehensive Overview
-
 ![Metrics Overview](./metrics-overview.svg)
 
 ### 📅 3D Isometric Commit Calendar
-
 ![Isometric Calendar](./metrics-isocalendar.svg)
 
 ### 🈷️ Most Used Languages (Detailed Analysis)
-
 ![Languages](./metrics-languages.svg)
 
 ### 💡 Coding Habits & Activity Patterns
-
 ![Coding Habits](./metrics-habits.svg)
+
+</div>
+
 
 
 
