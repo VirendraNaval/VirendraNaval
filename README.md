@@ -282,13 +282,6 @@ const Virendra = {
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/KanikaPunia119/KanikaPunia119/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 **Made with 💖 and lots of ☕**
 
@@ -428,13 +421,6 @@ const Virendra = {
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/KanikaPunia119/KanikaPunia119/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 **Made with 💖 and lots of ☕**
 
