@@ -103,13 +103,7 @@ const Virendra = {
 
 ![Coding Habits](./metrics-habits.svg)
 
-### 🏆 GitHub Achievements
 
-![Achievements](./metrics-achievements.svg)
-
-### ⭐ Notable Contributions
-
-![Notable Contributions](./metrics-notable.svg)
 
 ### 📰 Recent Activity Timeline
 
@@ -137,15 +131,6 @@ const Virendra = {
 </div>
 
 ---
-
-## 🌟 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/api/?username=virendranaval&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-
-</div>
 
 ---
 
