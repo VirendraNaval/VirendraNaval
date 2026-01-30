@@ -213,7 +213,7 @@ const Virendra = {
 
 <div align="center">
 
-| 🏢 Company | 📅 Duration | 💼 Role |
+| 🏢 Organisation | 📅 Duration | 💼 Role |
 |-----------|------------|---------|
 | **NIT Silchar** | Summer 2024 | Research Intern |
 
