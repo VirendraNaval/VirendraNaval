@@ -68,6 +68,7 @@ const Virendra = {
 
 ## 📊 GitHub Analytics
 
+
 <div align="center">
 
 ### 📈 Overall Statistics
@@ -146,7 +147,8 @@ const Virendra = {
 
 ### 📈 Overall Statistics
 
-![Virendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanikaPunia119&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Virendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virendranaval&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
 
 ### 📊 Contribution Graph
 
