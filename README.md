@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-> *"Being a girl in tech isn't an advantage — it's proof that I've earned my place, line by line of code."*
+
 
 ```javascript
 const Virendra = {
